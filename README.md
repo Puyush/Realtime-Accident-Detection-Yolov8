@@ -2,7 +2,7 @@
 
 **Check out the live demo:** [Accident Detection on Hugging Face](https://huggingface.co/spaces/Puyush/Accident-Detection)
 
-**Dataset:** [Accident Images From CCTV Footage]([https://www.kaggle.com/datasets/kazanova/sentiment140](https://www.kaggle.com/datasets/puyushgupta/dataset/data))
+**Dataset:** [Accident Images From CCTV Footage](https://www.kaggle.com/datasets/puyushgupta/dataset/data)
 
 ## Contributors
 
