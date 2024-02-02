@@ -2,6 +2,6 @@
 
 ## Contributors
 
-- [KushajM](https://github.com/KushajM)
+- [Kushaj Mallick](https://github.com/KushajM)
 - [Puyush](https://github.com/Puyush)
--[SudipD](https://github.com/Github-2lu)
+- [Sudip Datta](https://github.com/Github-2lu)
