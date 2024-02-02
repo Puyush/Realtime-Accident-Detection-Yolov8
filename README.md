@@ -2,7 +2,7 @@
 
 ## Contributors
 
-<div style="display: inline-block; position: relative; margin-right: 40px;">
+<div style="display: inline-block">
   <a href="https://github.com/KushajM">
     <img src="https://avatars.githubusercontent.com/u/85050534?v=4" alt="KushajM" style="width: 80px; overflow: hidden; border-radius: 50%;">
   </a>
