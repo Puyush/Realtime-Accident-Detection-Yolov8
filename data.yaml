@@ -1,0 +1,17 @@
+train: /kaggle/input/dataset/data/train/images
+val: /kaggle/input/dataset/data/valid/images
+
+nc: 10
+names:
+  [
+    "bike",
+    "bike_bike_accident",
+    "bike_object_accident",
+    "bike_person_accident",
+    "car",
+    "car_bike_accident",
+    "car_car_accident",
+    "car_object_accident",
+    "car_person_accident",
+    "person",
+  ]
