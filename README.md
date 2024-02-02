@@ -16,7 +16,7 @@
 
 <div style="display: inline-block; position: relative;">
   <a href="https://github.com/Puyush">
-    <img src="[https://avatars.githubusercontent.com/u/Puyush?v=4](https://avatars.githubusercontent.com/u/103782822?v=4)" alt="Puyush" style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%;">
+    <img src="https://avatars.githubusercontent.com/u/103782822?v=4" alt="Puyush" style="width: 100px; height: 100px; overflow: hidden; border-radius: 50%;">
   </a>
 </div>
 
