@@ -2,25 +2,12 @@
 
 ## Contributors
 
-<style>
-  .photos {
-    display: inline-block;
-    position: relative;
-    width: 200px;
-    height: 200px;
-    overflow: hidden;
-    border-radius: 50%;
-  }
-</style>
+# Accident-Detection-Yolov8
 
-<div class="photos">
-  <a href="https://github.com/KushajM">
-    <img src="[[Github_profile_image_source.jpg](https://avatars.githubusercontent.com/u/85050534?v=4)](https://github.com/KushajM)" alt="KushajM">
-  </a> 
-</div>
+## Contributors
 
-<div class="photos">
-  <a href="https://github.com/Puyush">
-    <img src="Github_profile_image_source.jpg" alt="Puyush">
-  </a> 
-</div>
+![KushajM](https://avatars.githubusercontent.com/u/85050534?v=4)
+[KushajM](https://github.com/KushajM)
+
+![Puyush](https://avatars.githubusercontent.com/u/OTHER_USER_ID?v=4)
+[Puyush](https://github.com/Puyush)
