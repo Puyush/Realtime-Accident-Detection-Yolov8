@@ -1,1 +1,1 @@
-# Accident_Detection_Yolov8
+# Accident-Detection-Yolov8
