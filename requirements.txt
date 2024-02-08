@@ -1,6 +1,6 @@
+dill
 ultralytics==8.1.5
 secure-smtplib==0.1.1
 python-dotenv==1.0.1
 opencv-python-headless
-dill
 streamlit
