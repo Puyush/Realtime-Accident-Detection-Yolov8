@@ -8,4 +8,4 @@
 
 **Dataset:** [Accident Images From CCTV Footage](https://www.kaggle.com/datasets/puyushgupta/dataset/data)
 
-If you find this project useful or interesting, please consider giving it a star! ⭐️
+
